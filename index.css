@@ -1,4 +1,12 @@
-<link href="https://fonts.googleapis.com/css?family=Raleway" rel="stylesheet">
+.css-selector {
+  font-family: 'Raleway', sans-serif;
+	font-family: 'Monteserrat', sans-serif;
+}
+
 h1 {
-	font-family: 'Raleway', sans-serif;
+	font-family: 'Monteserrat', sans-serif;
+}
+
+p {
+	font-family: 'Monteserrat', Sans-Serif;
 }
