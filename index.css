@@ -1,12 +1,14 @@
-.css-selector {
-  font-family: 'Raleway', sans-serif;
-	font-family: 'Monteserrat', sans-serif;
-}
-
 h1 {
-	font-family: 'Monteserrat', sans-serif;
+	font-family: 'Montserrat', serif;
 }
 
 p {
-	font-family: 'Monteserrat', Sans-Serif;
+	font-family: 'Raleway', Sans-Serif;
+}
+
+#top {
+	margin: auto;
+	width: 90%;
+	border: 2px solid black;
+	text-align: center;
 }
