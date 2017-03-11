@@ -11,7 +11,7 @@ p {
 	border: 2px solid black;
 	display: inline-block;
 	text-align: center;
-
+	margin: auto;
 }
 
 .ctext {
@@ -30,9 +30,24 @@ p {
 }
 
 #main {
-	width: 75%;
+	width: 60%;
 	height: 80%;
 	border: 2px solid black;
 	padding: 10px;
-	margin-top: 1em;
+	margin: 1em auto;
+	display: inline-block;
+}
+
+#left-menu {
+	border: 2px solid black;
+	display: inline-block;
+	width: 20%;
+	text-align: center;
+}
+
+#right-menu {
+	border: 2px solid black;
+	display: inline-block;
+	width: 17%;
+	text-align: center;
 }
