@@ -6,7 +6,9 @@ date: 2018-01-18
 
 ## Resume
 # Jonathan Law
-##### My Address and Contacts Here
+*647 Santa Fe Drive*  
+*Mantua, NJ 08051*   
+jal457@drexel.edu • [github.com/shindig7](http://www.github.com/shindig7) • (856) 689 - 0524
 ---
 ## Education
 - *Bachelor of Science*, Data Science
