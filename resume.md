@@ -4,7 +4,7 @@ title: Resume
 date: 2018-01-18
 ---
 
-## Resume
+## Resume | Last Updated: {{ page.date }}
 # Jonathan Law
 ##### *Philadelphia, PA*  
 ##### [jal457@drexel.edu](mailto:jal457@drexel.edu) • [github.com/shindig7](http://www.github.com/shindig7) • (856) 689 - 0524  
