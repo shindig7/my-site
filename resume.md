@@ -59,4 +59,4 @@ date: 2018-01-18
 - *Knights of Columbus*, March 2015 - present
 
 
-Last Updated: {{ page.date }}
+##### Last Updated: {{ page.date }}
