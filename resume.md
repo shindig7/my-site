@@ -6,9 +6,8 @@ date: 2018-01-18
 
 ## Resume
 # Jonathan Law
-##### *647 Santa Fe Drive*  
-##### *Mantua, NJ 08051*   
-##### jal457@drexel.edu • [github.com/shindig7](http://www.github.com/shindig7) • (856) 689 - 0524  
+##### *Philadelphia, PA*  
+##### [jal457@drexel.edu](mailto:jal457@drexel.edu) • [github.com/shindig7](http://www.github.com/shindig7) • (856) 689 - 0524  
 ---
 ## Education
 - *Bachelor of Science*, Data Science
@@ -28,8 +27,7 @@ date: 2018-01-18
 ## Experience
 ### Bloomberg LP 
 #### *Data Acquisition Co-Op*
-##### Princeton, NJ
-##### September 2016 - March 2017
+##### Princeton, NJ | September 2016 - March 2017
  - Leveraged Python and SQL to design and implement a solution for automating a manual process of  
    comparing financial documents from multiple sources to determine a coefficient of similarity and  
    flag duplicates, resulting in a weekly time savings of 35 hours for the team
@@ -45,8 +43,7 @@ date: 2018-01-18
 ## Technical Projects
 ### DragonSource 
 #### *Developer*  
-##### Philadelphia, PA
-##### February 2017 (Philly CodeFest 2017)
+##### Philadelphia, PA | February 2017 (Philly CodeFest 2017)
 - Developed a prototype for approximating the level of political bias in a given news story in comparison to similar  
  stories through the use of Markov chains, machine learning
 - Utilized Python to build programs to collect data from websites and web APIs to later be leveraged in the  
