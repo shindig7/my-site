@@ -4,7 +4,7 @@ title: Resume
 date: 2018-01-18
 ---
 
-## Resume | Last Updated: {{ page.date }}
+## Resume
 # Jonathan Law
 ##### *Philadelphia, PA*  
 ##### [jal457@drexel.edu](mailto:jal457@drexel.edu) • [github.com/shindig7](http://www.github.com/shindig7) • (856) 689 - 0524  
@@ -57,3 +57,6 @@ date: 2018-01-18
 - *Pi Nu Epsilon (Honors Music Fraternity), Secretary*, April 2017 - present
 - *Drexel University Chorus*, January 2016-present
 - *Knights of Columbus*, March 2015 - present
+
+
+Last Updated: {{ page.date }}
