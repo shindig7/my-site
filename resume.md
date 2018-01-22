@@ -60,4 +60,4 @@ date: 2018-01-18
 
 
 ##### Last Updated: {{ page.date }}
-##### [Download PDF Version](www.jonathan-a-law.com/files/Resume.pdf)
+##### [Download PDF Version](/files/Resume.pdf)
