@@ -36,7 +36,7 @@ h3 {
 }
 p {
     font-size: 1.5em;
-    line-height: 75%;
+    line-height: 95%;
     color: #333;
 }
 footer {
@@ -55,7 +55,7 @@ ul.posts li {
 }
 
 li {
-	font-size: 1.5em;
+	font-size: 1em;
 	list-style-type: bullet;
 }
 p.subtitle {
