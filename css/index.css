@@ -61,7 +61,8 @@ li {
 	font-size: 1em;
 	list-style-type: bullet;
 }
-.subtitle {
+p.subtitle {
 	font-size: .75em;
+	line-height: 75%;
 }
 
