@@ -62,4 +62,6 @@ p.subtitle {
 	font-size: .75em;
 	line-height: 75%;
 }
-
+.profile-picture {
+	padding: 10px;
+}
