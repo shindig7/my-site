@@ -60,7 +60,7 @@ ul.posts li {
 li {
 	font-size: 1.25em;
 	/*list-style-type: bullet; */
-	list-style: none;
+	list-style: square;
 }
 p.subtitle {
 	font-size: .75em;
