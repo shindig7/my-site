@@ -3,7 +3,6 @@ body {
     margin: 60px auto;
     width: 70%;
     font-family: 'Raleway', 'Helvetica', 'Sans-Serif';
-    line-height: 90%;
 }
 nav ul, footer ul {
     font-family: 'Montserrat', 'Helvetica', 'Arial', 'Sans-Serif';
@@ -63,6 +62,6 @@ p.subtitle {
 	font-size: .75em;
 	line-height: 75%;
 }
-.profile-picture {
+#profile-picture {
 	padding-right: 10px;
 }
