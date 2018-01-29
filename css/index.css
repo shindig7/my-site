@@ -65,3 +65,18 @@ p.subtitle {
 .profile-picture {
 	padding-right: 10px;
 }
+.container {
+	width: 80%;
+	height: 200px;
+	margin: auto;
+	padding: 10px;
+}
+#index-left {
+	width: 15%;
+	height: 200px;
+	float: left;
+}
+#index-right {
+	margin-left: 15%;
+	height: 200px;
+}
