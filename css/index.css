@@ -25,18 +25,21 @@ a:hover {
 h1 {
     font-size: 3em;
     font-family: 'Montserrat', 'Helvetica', 'Arial', 'Sans-Serif';
+    line-height: 1em;
 }
 h2 {
   font-size: 2em;
   font-family: 'Montserrat', 'Helvetica', 'Arial', 'Sans-Serif';
+  line-height: .75em;
 }
 h3 {
     font-size: 1.75em;
     font-family: 'Montserrat', 'Helvetica', 'Arial', 'Sans-Serif';
+    line-height: .75em;
 }
 p {
     font-size: 1.5em;
-    line-height: 95%;
+    line-height: 1em;
     color: #333;
 }
 footer {
@@ -56,13 +59,14 @@ ul.posts li {
 
 li {
 	font-size: 1.25em;
-	list-style-type: bullet;
+	/*list-style-type: bullet; */
+	list-style: square;
 }
 p.subtitle {
 	font-size: .75em;
 	line-height: 75%;
 }
-.profile-picture {
+#profile-picture {
 	padding-right: 10px;
 }
 .container {
