@@ -73,10 +73,9 @@ p.subtitle {
 	display: flex;
 	flex-flow: row wrap;
 }
-#index-left {
+.flex-container > div {
 	border: 1px solid black;
+	width: 200px;
+	margin: 10px;
+	background-color: red;
 }
-#index-right {
-	border: 1px solid black;
-}
-
