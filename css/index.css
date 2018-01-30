@@ -71,7 +71,9 @@ p.subtitle {
 }
 .flex-container {
 	display: flex;
-	width: 70%;
+	height: 200px
+	align-items: center;
+	justify-content: center;
 	flex-flow: row wrap;
 }
 .flex-container > div {
