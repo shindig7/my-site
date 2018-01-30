@@ -71,6 +71,7 @@ p.subtitle {
 }
 .flex-container {
 	display: flex;
+	width: 70%;
 	flex-flow: row wrap;
 }
 .flex-container > div {
