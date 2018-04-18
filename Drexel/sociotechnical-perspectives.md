@@ -1,3 +1,9 @@
+<style media="screen" type="text/css">
+img.resize {
+  width: 960px;
+  height: 680px;
+}
+</style>
 # Sociotechnical Perspectives
 ##### By: Jonathan Law | 4/19/2018
 <br>
@@ -11,6 +17,6 @@
 
 ### Technology:
 
-<img src="../files/Technology.png" alt="technology" title="What is Technology?">
+<img class="resize" src="../files/Technology.png" alt="technology" title="What is Technology?">
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;An application of knowledge in order to assist in the completion of a goal that would be difficult or impossible with out it. Technology is often thought of as being related to computers, but it can be even more basic than that, such as a wheel, a lever, or a technique.
