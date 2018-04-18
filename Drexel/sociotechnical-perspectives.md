@@ -44,15 +44,15 @@ img.resize {
 
 ## What It All Means
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;So what's my point? Because of how deeply enmeshed and embedded society and technology are with each other, it is extremely important to consider the social and political implications of new technologies and frameworks *while* they are being developed, and not *after* they are released to the public. A good example of one of the worst possible outcomes is what happened with Google Photos object recognition. Google Photos uses machine learning to categorize photos based on what they contain. Selfies is a common category, and Google Photos is excellent at identifying landmarks and locations. However, scandal arose when a user found that Google Photos [categorized his photos of himself and his friend (both black people) as "Gorillas".](Google Photos Gorillas) This was an appalling mistake, but it serves as an example of what can happen when a technology is put into use without consideration of the social and political impact that it can have.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;So what's my point? Because of how deeply enmeshed and embedded society and technology are with each other, it is extremely important to consider the social and political implications of new technologies and frameworks *while* they are being developed, and not *after* they are released to the public. A good example of one of the worst possible outcomes is what happened with Google Photos object recognition. Google Photos uses machine learning to categorize photos based on what they contain. Selfies is a common category, and Google Photos is excellent at identifying landmarks and locations. However, scandal arose when a user found that Google Photos [categorized his photos of himself and his friend (both black people) as "Gorillas".][Google Photos Gorillas] This was an appalling mistake, but it serves as an example of what can happen when a technology is put into use without consideration of the social and political impact that it can have.
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;No longer can developers develop without consideration of the social spheres and dichotomies of the world today. As the above example shows, before a technology is released, it needs to be thoroughly tested and analyzed to attempt to determine the possible effect, both postitive and negative, that it could have on the world.
 
 
 ### References
-["The Sociotechnical Perspective"](The Sociotechnical Perspective) by Sawyer, S. and Jarrahi, M.
+["The Sociotechnical Perspective"][The Sociotechnical Perspective] by Sawyer, S. and Jarrahi, M.
 
-[Google Photos labeled black people 'gorillas'](Google Photos Gorillas) (USA Today)
+[Google Photos labeled black people 'gorillas'][Google Photos Gorillas] (USA Today)
 
 
 [The Sociotechnical Perspective]: http://www.jarrahi.com/publications/Sawyer%20and%20Jarrahi,%20the%20sociotechnial%20perspective.pdf
