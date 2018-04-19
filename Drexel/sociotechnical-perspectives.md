@@ -22,7 +22,7 @@ img.resize {
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;An application of knowledge in order to assist in the completion of a goal that would be difficult or impossible with out it. Technology is often thought of as being related to computers, but it can be even more basic than that, such as a wheel, a lever, or a technique.
 
 ## Sociotechnical Premise
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;In an article entitled *["The Sociotechnical Perspective"](The Sociotechnical Perspective)*, Sawyer and Jarrahi define the sociotechnical premise as:
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;In an article entitled *["The Sociotechnical Perspective"][The Sociotechnical Perspective]*, Sawyer and Jarrahi define the sociotechnical premise as:
 
 > 1) the mutual constitution of people and technologies,
 >
