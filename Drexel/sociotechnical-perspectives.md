@@ -4,6 +4,15 @@ img.resize {
   height: 680px;
 }
 </style>
+<body>
+<div id="fb-root"></div>
+<script>(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = 'https://connect.facebook.net/en_US/sdk.js#xfbml=1&version=v2.12';
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
 # Sociotechnical Perspectives
 #### By: Jonathan Law | 4/19/2018
 <br>
@@ -54,7 +63,10 @@ img.resize {
 
 [Google Photos labeled black people 'gorillas'][Google Photos Gorillas] (USA Today)
 
+<div class="fb-comments" data-href="http://www.jonathan-a-law.com/Drexel/sociotechnical-perspectives" data-numposts="5"></div>
 
 [The Sociotechnical Perspective]: http://www.jarrahi.com/publications/Sawyer%20and%20Jarrahi,%20the%20sociotechnial%20perspective.pdf
 
 [Google Photos Gorillas]: https://www.usatoday.com/story/tech/2015/07/01/google-apologizes-after-photos-identify-black-people-as-gorillas/29567465/
+
+</body>
