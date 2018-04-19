@@ -4,7 +4,6 @@ img.resize {
   height: 680px;
 }
 </style>
-<body>
 <div id="fb-root"></div>
 <script>(function(d, s, id) {
   var js, fjs = d.getElementsByTagName(s)[0];
@@ -68,5 +67,3 @@ img.resize {
 [The Sociotechnical Perspective]: http://www.jarrahi.com/publications/Sawyer%20and%20Jarrahi,%20the%20sociotechnial%20perspective.pdf
 
 [Google Photos Gorillas]: https://www.usatoday.com/story/tech/2015/07/01/google-apologizes-after-photos-identify-black-people-as-gorillas/29567465/
-
-</body>
