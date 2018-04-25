@@ -22,7 +22,7 @@ img.resize {
 
 ## Society:
 
-![society](../files/Society.jpg "What is a Society?")
+<img src="../files/Society.jpg" alt="Society" title="What is a Society?")
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;A group of people who share a culture or set of values who depend on one another to satisfy certain physical, social, and psychological needs. These people usually live together, but as the use of the Internet spreads, these groups are no longer bound by physical location.
 
