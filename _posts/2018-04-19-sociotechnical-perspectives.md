@@ -1,3 +1,9 @@
+---
+layout: post
+title: Sociotechnical Perspectives
+date: 2018-04-19
+subtitle: Examining the meaning of technology and its embeddedness in our Society
+---
 <style media="screen" type="text/css">
 img.resize {
   width: 960px;
@@ -12,9 +18,6 @@ img.resize {
   js.src = 'https://connect.facebook.net/en_US/sdk.js#xfbml=1&version=v2.12';
   fjs.parentNode.insertBefore(js, fjs);
 }(document, 'script', 'facebook-jssdk'));</script>
-# Sociotechnical Perspectives
-#### By: Jonathan Law | 4/19/2018
-<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;In order to define the term __"sociotechnical"__, I think it's important to define __"society"__ and __"technology"__ first.
 
 ## Society:
