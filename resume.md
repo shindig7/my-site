@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Resume
-date: 2018-01-18
+date: 2018-05-14
 ---
 
 ## Resume
@@ -11,21 +11,33 @@ date: 2018-01-18
 ---
 ## Education
 - *Bachelor of Science*, Data Science
+- Minor: Business Analytics
 - Drexel University, Penonni Honors College
 - Expected Graduation Date: 2020
-- Minor: Business
 
 ----
 
 ## Skills
-- *Languages*: Python, SQL, Git, Regex, XPATH
-- *Software*: Vim, Pycharm, Microsoft SQL Server Management Studio, Microsoft Office
+- *Languages*: Python, SQL, Git, HTML, CSS, Regular Expressions, XPATH, F#
+- *Software*: Vim, Pycharm, Jupyter Notebook, Visual Studio, Microsoft Office
 - *Operating Systems*: Windows, Linux
 
 ----
 
 ## Experience
-### Bloomberg LP 
+### Bloomberg LP
+#### *Data Analyst & Developer*
+##### Princeton, NJ | October 2017 - March 2018
+- Returned as a data specialist based on positive performance during previous co-op
+- Developed, tested a proof-of-concept tool for automated name and title extraction from company man-
+agement web pages using Python, Regular Expressions, XPath, and NLP, saving up to 90 FTE hours per
+week and replacing up to 25% of existing, dedicated web crawlers
+- Designed, implemented dedicated webcrawlers using Bloomberg's proprietary webcrawling software, APIs,
+XPath, Regular Expressions, and JavaScript to deliver custom content to stakeholders and customers
+- Participated in team strategy meetings regarding webcrawling best practices, platform updates and mod-
+ications, work
+ow adjustments, and vendor oversight
+
 #### *Data Acquisition Co-Op*
 ##### Princeton, NJ | September 2016 - March 2017
 - Leveraged Python and SQL to design and implement a solution for automating a manual process of  
@@ -39,9 +51,9 @@ date: 2018-01-18
    and action on a plan for migrating over 200 legacy Python and VBA programs to Bloomberg’s proprietary systems
 
 ---
-   
+
 ## Technical Projects
-### DragonSource 
+### DragonSource
 #### *Developer*  
 ##### Philadelphia, PA | February 2017 (Philly CodeFest 2017)
 - Developed a prototype for approximating the level of political bias in a given news story in comparison to similar  
