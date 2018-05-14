@@ -29,26 +29,16 @@ date: 2018-05-14
 #### *Data Analyst & Developer*
 ##### Princeton, NJ | October 2017 - March 2018
 - Returned as a data specialist based on positive performance during previous co-op
-- Developed, tested a proof-of-concept tool for automated name and title extraction from company man-
-agement web pages using Python, Regular Expressions, XPath, and NLP, saving up to 90 FTE hours per
-week and replacing up to 25% of existing, dedicated web crawlers
-- Designed, implemented dedicated webcrawlers using Bloomberg's proprietary webcrawling software, APIs,
-XPath, Regular Expressions, and JavaScript to deliver custom content to stakeholders and customers
-- Participated in team strategy meetings regarding webcrawling best practices, platform updates and mod-
-ications, work
-ow adjustments, and vendor oversight
+- Developed, tested a proof-of-concept tool for automated name and title extraction from company management web pages using Python, Regular Expressions, XPath, and NLP, saving up to 90 FTE hours per week and replacing up to 25% of existing, dedicated web crawlers
+- Designed, implemented dedicated webcrawlers using Bloomberg's proprietary webcrawling software, APIs, XPath, Regular Expressions, and JavaScript to deliver custom content to stakeholders and customers
+- Participated in team strategy meetings regarding webcrawling best practices, platform updates and modifications, work flow adjustments, and vendor oversight
 
 #### *Data Acquisition Co-Op*
 ##### Princeton, NJ | September 2016 - March 2017
-- Leveraged Python and SQL to design and implement a solution for automating a manual process of  
-   comparing financial documents from multiple sources to determine a coefficient of similarity and  
-   flag duplicates, resulting in a weekly time savings of 35 hours for the team
-- Designed, developed, and implemented automated webcrawling systems through the use of Bloomberg’s  
-   proprietary webcrawling software, XPath, and Regular Expressions
-- Oversaw all quality control efforts for the webcrawling team’s overseas vendors through reviewing code syntax,  
-   testing completed crawlers, and relaying constructive criticism back to the team when necessary
-- Partnered with stakeholders in engineering and product management to successfully strategize, present,  
-   and action on a plan for migrating over 200 legacy Python and VBA programs to Bloomberg’s proprietary systems
+- Leveraged Python and SQL to design and implement a solution for automating a manual process of comparing financial documents from multiple sources to determine a coefficient of similarity and flag duplicates, resulting in a weekly time savings of 35 hours for the team
+- Designed, developed, and implemented automated webcrawling systems through the use of Bloomberg’s proprietary webcrawling software, XPath, and Regular Expressions
+- Oversaw all quality control efforts for the webcrawling team’s overseas vendors through reviewing code syntax, testing completed crawlers, and relaying constructive criticism back to the team when necessary
+- Partnered with stakeholders in engineering and product management to successfully strategize, present, and action on a plan for migrating over 200 legacy Python and VBA programs to Bloomberg’s proprietary systems
 
 ---
 
@@ -56,10 +46,8 @@ ow adjustments, and vendor oversight
 ### DragonSource
 #### *Developer*  
 ##### Philadelphia, PA | February 2017 (Philly CodeFest 2017)
-- Developed a prototype for approximating the level of political bias in a given news story in comparison to similar  
-  stories through the use of Markov chains, machine learning
-- Utilized Python to build programs to collect data from websites and web APIs to later be leveraged in the  
-   aforementioned machine learning algorithms
+- Developed a prototype for approximating the level of political bias in a given news story in comparison to similar stories through the use of Markov chains, machine learning
+- Utilized Python to build programs to collect data from websites and web APIs to later be leveraged in the aforementioned machine learning algorithms
 - Used APIs, web crawling to collect input data for learning algorithms
 - Led project design, presentation to panel of judges
 
